@@ -1,3 +1,5 @@
+-- @author: Fang Cabrera
+
 CREATE DATABASE hw3;
 USE hw3
 

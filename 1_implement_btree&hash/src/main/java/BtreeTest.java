@@ -9,8 +9,11 @@ import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
 /**
- * Description: This class contains all the test cases for BTree
+ * Class BtreeTest
+ * @author Fang Cabrera
+ * Description: Entry for testing the Btree class
  */
+
 public class BtreeTest {
     /**
      * Main Entry for the test

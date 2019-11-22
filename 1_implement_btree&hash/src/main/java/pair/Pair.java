@@ -1,5 +1,11 @@
 package pair;
 
+/**
+ * Class Pair
+ * @author Fang Cabrera 
+ * Description: underlying data structure for storing key-value pairs in an array
+ */
+
 public class Pair<K,V> implements IPair<K,V> {
     K key;
     V val;

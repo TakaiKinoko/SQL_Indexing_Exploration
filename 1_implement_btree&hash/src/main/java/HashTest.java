@@ -8,6 +8,12 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.List;
 
+/**
+ * Class HashTest
+ * @author Fang Cabrera 
+ * Description: Entry for testing the Hash class
+ */
+
 public class HashTest {
     private List<Pair<Integer, Integer>> data;   // store  index <-> [value]
     private HashMap<Integer, Integer> db_chaining;  // store [key, index]

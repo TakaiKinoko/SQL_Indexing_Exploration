@@ -1,3 +1,8 @@
+"""
+author: Fang Cabrera
+This file contains script used to connect and query mysql database.
+"""
+
 import mysql.connector 
 import time
 import numpy as np 
