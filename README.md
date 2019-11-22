@@ -14,7 +14,7 @@
 
 * An insert(k,v) should be interpreted as an __”upsert”__ meaning that if there is already a record with key value k, then that record’s value should be changed to v. The program should show timings for all operations together and write the total time and the resulting table to standard out after all operations.
 
-## 2. Quantitize Index Effect On Mysql
+## 2. Quantitate the Effect of Using Index In Mysql
 
 * schema: 
     * Employee(ID, Name, Salary, Manager, Department) 
